@@ -1,6 +1,0 @@
-com\javarush\springmvc\controller\UserController.class
-com\javarush\springmvc\services\impl\UserServiceImpl.class
-com\javarush\springmvc\dao\impl\UserDAOImpl.class
-com\javarush\springmvc\domain\User.class
-com\javarush\springmvc\dao\UserDAO.class
-com\javarush\springmvc\services\UserService.class
