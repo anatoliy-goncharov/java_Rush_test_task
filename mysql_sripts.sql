@@ -1,0 +1,17 @@
+CREATE TABLE user ( id int(8) NOT NULL AUTO_INCREMENT, name varchar(25), age int, isAdmin bit, createdDate timestamp DEFAULT CURRENT_TIMESTAMP, PRIMARY KEY (id) ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+insert into user (id, name, age, isAdmin, createdDate) values (17, 'Vyacheslav', 19, '1', '2014-08-27 14:21:35');
+insert into user (id, name, age, isAdmin, createdDate) values (20, 'SS', 20, '0', '2014-08-25 12:15:58');
+insert into user (id, name, age, isAdmin, createdDate) values (28, 'Вячеслав', 18, '1', '2014-08-25 13:12:52');
+insert into user (id, name, age, isAdmin, createdDate) values (29, 'Sara', 58, '0', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (31, 'N', 22, '1', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (33, 'Tolik', 28, '1', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (34, 'ShivaRazrushitel', 99, '1', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (35, 'erwrwr', 89, '0', '2014-08-27 11:26:30');
+insert into user (id, name, age, isAdmin, createdDate) values (36, 'OldMan', 99, '1', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (37, 'Swiborg', 89, '0', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (38, 'VVV', 45, '0', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (39, 'ssdf', 56, '0', '2014-08-27 18:34:30');
+insert into user (id, name, age, isAdmin, createdDate) values (42, 'del1', 18, '1', '2014-08-27 17:22:34');
+insert into user (id, name, age, isAdmin, createdDate) values (43, 'ghgh', 25, '0', '2014-08-27 17:24:58');
+insert into user (id, name, age, isAdmin, createdDate) values (44, '123', 44, '0', '2014-08-27 18:00:02');
+insert into user (id, name, age, isAdmin, createdDate) values (45, 'KNP1', 22, '1', '2014-08-27 18:15:35');
